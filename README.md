@@ -1,4 +1,5 @@
 # Environmental Node for Mycorrhizal Research
+![Node](images/node-front-view.jpeg)
 ## Project Overview
 This repository contains the code and hardware specifications for an environmental node designed to collect and publish data for mycorrhizal research. The project is a collaboration between Glyxon Biolabs and the Desert Botanical Gardens, aimed at studying the mutual interaction between soil fungi and trees in challenging environments.
 ## Background
@@ -50,7 +51,7 @@ Contact
 
 
 
-![Node](images/node-front-view.jpeg)
+
 
 
 
