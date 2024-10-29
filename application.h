@@ -7,13 +7,14 @@
  * It uses MQTT to publish the collected data.
  * 
  * Hardware:
- * - Arduino-compatible board
+ * - AVR Cellular Mini
  * - SCD40 CO2 sensors (x2: test and control)
  * - SHT31 temperature and humidity sensor
  * - Atlas Scientific pH sensor
  * - VH400 soil moisture sensor
  * - Rain gauge
  * - PCA9548A I2C multiplexer (to resolve I2C address conflict)
+ * - I2C Extender
  * 
  * Libraries used:
  * - ArduinoJson 
